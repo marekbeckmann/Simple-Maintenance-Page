@@ -36,4 +36,4 @@ https://static.bektroid-studios.de/style/maintenance/style.css
 
 **Thank your for using this template. Feel free to leave me any feedback.**
 
-The example favicon and logo is created by [Rahul Kalkani](https://iconscout.com/contributors/rkalkani) under the [CC BY-NC-ND 4.0 license](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
