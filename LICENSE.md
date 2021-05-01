@@ -22,4 +22,4 @@ SOFTWARE.
 
 ## Attribution for other work used in this project: 
 
-- The example favicon and logo is created by [Round Icons](https://icons-for-free.com/icons-author-Round+Icons/) under the [CC BY-NC-ND 4.0 license](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+- The example favicon and logo is created by [Rahul Kalkani](https://iconscout.com/contributors/rkalkani) under the [CC BY-NC-ND 4.0 license](https://creativecommons.org/licenses/by-nc-nd/4.0/)
