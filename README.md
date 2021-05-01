@@ -11,9 +11,12 @@ This is a simple HTML/CSS page, that you can use for maintenance purposes. For y
  - Free for private and commercial use (see LICENSE.md)
 
 Screenshot Desktop: 
+
 ![maintenance_page_desktop](https://user-images.githubusercontent.com/80179488/116783094-1c7d0c80-aa8d-11eb-832f-ad076dc1bed7.jpg)
 
+
 Screenshot Mobile: 
+
 ![maintenance_page_mobile](https://user-images.githubusercontent.com/80179488/116783100-2141c080-aa8d-11eb-89ae-c448bff62118.jpg)
 
 
