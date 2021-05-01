@@ -4,11 +4,7 @@ f_userinput() {
     numVal='^[1-2]+$'
     read -r -p "Company Name: " name
     read -r -p "E-Mail: " email
-    read -r -p "Design Choice (1/2): " design
-    if ! [[ $design =~ $numVal ]]; then
-        design=1
-    fi
-
+   
 }
 
 f_makepage() {
@@ -19,10 +15,7 @@ f_makepage() {
     cp -ar assets/* yourproduct/assets/
     sed -i -E "s/\[email\]/$email/g" yourproduct/maintenance.html
     sed -i -E "s/\[Company\]/$name/g" yourproduct/maintenance.html
-    if [[ $design = 2 ]]; then
-        sed -i '/\[alt-bg\]/d' yourproduct/assets/css/style.css
-    fi
-
+    
 }
 
 if [[ -f "index.html" ]] && [[ -f "assets/css/style.css" ]]; then
