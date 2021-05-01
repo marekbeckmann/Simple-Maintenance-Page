@@ -31,6 +31,7 @@ Make the Script executable by running
     chmod +x setup.sh
 
 Next, simply run the script by issuing `./setup.sh` and fill in the values. 
+
 **Important:** You can choose a clear background (1) or a rounded, darker background (2)
 
 **Thank your for using this template. Feel free to leave my any feedback.**
