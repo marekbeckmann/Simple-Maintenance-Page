@@ -10,7 +10,7 @@ This is a simple HTML/CSS page, that you can use for maintenance purposes. For y
  - Adaptive CSS for mobile, tablet, laptop and desktop
  - Free for private and commercial use (see LICENSE.md)
 
-Screenshot Desktop (Design 1): 
+Screenshot Desktop:
 
 ![maintenance_page_desktop](https://user-images.githubusercontent.com/80179488/116791703-75b06480-aabc-11eb-82a5-b978ed1f8f9f.jpg)
 
