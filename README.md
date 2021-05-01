@@ -31,4 +31,3 @@ Next, simply run the script by issuing `./setup.sh` and fill in the values.
 
 **Thank your for using this template. Feel free to leave my any feedback.**
 
-The example favicon and logo is created by [Round Icons](https://icons-for-free.com/icons-author-Round+Icons/) under the [CC BY-NC-ND 4.0 license](https://creativecommons.org/licenses/by-nc-nd/4.0/)
