@@ -15,10 +15,10 @@ functionmakepage() {
 
     mkdir -p yourproduct
     mkdir -p yourproduct/assets
-    cp index.html yourproduct/index.html
+    cp index.html yourproduct/maintenance.html
     cp -ar assets/* yourproduct/assets/
-    sed -i -E "s/\[email\]/$email/g" yourproduct/index.html
-    sed -i -E "s/\[Company\]/$name/g" yourproduct/index.html
+    sed -i -E "s/\[email\]/$email/g" yourproduct/maintenance.html
+    sed -i -E "s/\[Company\]/$name/g" yourproduct/maintenance.html
     if [[ $design = 2 ]]; then
         sed -i '/\[alt-bg\]/d' yourproduct/assets/css/style.css
     fi
