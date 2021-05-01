@@ -8,7 +8,7 @@ This is a simple HTML/CSS page, that you can use for maintenance purposes. For y
  - Company/Personal Logo
  - Contact E-Mail
  - Adaptive CSS for mobile, tablet, laptop and desktop
- - Free for private and commercial use (see LICENSE.md)
+ - Free for private and commercial use (see LICENSE)
 
 Screenshot Desktop:
 
