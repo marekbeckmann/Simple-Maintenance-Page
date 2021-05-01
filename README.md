@@ -28,6 +28,9 @@ Make the Script executable by running
 
 Next, simply run the script by issuing `./setup.sh` and fill in the values. 
 
+**If you don't want to use an extra CSS file, you can link the css file available on my server (always the newest version)
+ - https://static.bektroid-studios.de/style/maintenance/style.css
+
 **Important:** You can choose a clear background (1) or a rounded, darker background (2)
 
 **Thank your for using this template. Feel free to leave me any feedback.**
