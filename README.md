@@ -12,7 +12,8 @@ This is a simple HTML/CSS page, that you can use for maintenance purposes. For y
 
 Screenshot Desktop (Design 1): 
 
-![maintenance_page_desktop](https://user-images.githubusercontent.com/80179488/116783094-1c7d0c80-aa8d-11eb-832f-ad076dc1bed7.jpg)
+![maintenance_page_desktop](https://user-images.githubusercontent.com/80179488/116791703-75b06480-aabc-11eb-82a5-b978ed1f8f9f.jpg)
+
 
 
 ## 2. Download and Installation:
