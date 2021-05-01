@@ -7,7 +7,7 @@ This is a simple HTML/CSS page, that you can use for maintenance purposes. For y
 
  - Company/Personal Logo
  - Contact E-Mail
- - Optional: Other Background Design (see screenshots)
+ - Adaptive CSS for mobile, tablet, laptop and desktop
  - Free for private and commercial use (see LICENSE.md)
 
 Screenshot Desktop (Design 1): 
