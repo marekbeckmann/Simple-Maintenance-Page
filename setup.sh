@@ -1,5 +1,5 @@
 #!/bin/bash
-functionuserinput() {
+f_userinput() {
 
     numVal='^[1-2]+$'
     read -r -p "Company Name: " name
@@ -11,7 +11,7 @@ functionuserinput() {
 
 }
 
-functionmakepage() {
+f_makepage() {
 
     mkdir -p yourproduct
     mkdir -p yourproduct/assets
@@ -26,12 +26,12 @@ functionmakepage() {
 }
 
 if [[ -f "index.html" ]] && [[ -f "assets/css/style.css" ]]; then
-    functionuserinput
+    f_userinput
     if [[ -d yourproduct/ ]]; then
         read -r -p "There is an existing project! Continue anyway? (Y/N): " confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1
-        functionmakepage
+        f_makepage
     else
-        functionmakepage
+        f_makepage
     fi
 else
     echo "Please make sure, that \"index.html\" and \"assets/style.css\" are in place"
