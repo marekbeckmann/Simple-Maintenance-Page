@@ -13,7 +13,7 @@ This is a simple HTML/CSS page, that you can use for maintenance purposes. For y
 
 Clone the GIT repository 
 ```
-git clone https://github.com/mlhbeckmann/automatedlinuxsecurity.git --branch release --single-branch
+git clone https://github.com/mlhbeckmann/Maintenance-Page.git --branch release --single-branch
 ```
 Make the Script executable by running
 
