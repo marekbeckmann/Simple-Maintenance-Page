@@ -30,7 +30,7 @@ Make the Script executable by running
 Next, simply run the script by issuing `./setup.sh` and fill in the values. 
 
 ### 2. Windows
-Download or clone the repository to your computer, after that right-click the `setup.ps1` file and fill in the values.
+Download or clone the repository to your computer, after that right-click the `setup.ps1` file and choose `Run with Powershell`. After that fill in the values.
 
 ___
 
