@@ -32,6 +32,7 @@ Next, simply run the script by issuing `./setup.sh` and fill in the values.
 ### 2. Windows
 Download or clone the repository to your computer, after that right-click the `setup.ps1` file and fill in the values.
 
+___
 
 **If you don't want to use an extra CSS file, you can link the css file available on my server (always the newest version)**
 ```
