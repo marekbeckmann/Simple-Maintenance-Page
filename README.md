@@ -21,7 +21,7 @@ Screenshot Desktop:
 ### 1. Linux
 Clone the GIT repository 
 ```
-git clone https://github.com/mlhbeckmann/Maintenance-Page.git
+git clone https://github.com/mlhbeckmann/Maintenance-Page.git --branch release --single-branch
 ```
 Make the Script executable by running
 
