@@ -38,6 +38,10 @@ ___
 ```
 https://static.bektroid-studios.de/style/maintenance/style.css
 ```
+If you prefer a short URL, you can use
+```
+https://bektr.me/style.css
+```
 
 
 **Thank your for using this template. Feel free to leave me any feedback.**
