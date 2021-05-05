@@ -9,6 +9,7 @@ This is a simple HTML/CSS page, that you can use for maintenance purposes. For y
  - Contact E-Mail
  - Adaptive CSS for mobile, tablet, laptop and desktop
  - Free for private and commercial use (see LICENSE)
+ - Content-Security Policy (in index.html)
 
 Screenshot Desktop:
 
