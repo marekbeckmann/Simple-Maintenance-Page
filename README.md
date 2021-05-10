@@ -41,7 +41,7 @@ https://static.bektroid-studios.de/style/maintenance/style.css
 ```
 If you prefer a short URL, you can use
 ```
-https://bektr.me/style.css
+https://bektr.me/style-mntn
 ```
 
 
