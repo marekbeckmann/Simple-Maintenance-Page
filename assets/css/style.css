@@ -1,0 +1,109 @@
+html,
+body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin : auto;
+}
+
+body {
+    display       : table-cell;
+    vertical-align: middle;
+    padding-top   : 20px;
+    padding-bottom: 20px;
+    padding-left  : 5px;
+    padding-right : 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.title {
+    text-align : center;
+    font-family: Archivo, serif;
+    color      : #4f4f4f;
+    font-size  : 52px;
+}
+
+.subtitle {
+    text-align : center;
+    font-family: Archivo, serif;
+    color      : #4f4f4f;
+    font-size  : 44px;
+}
+
+
+.signature {
+    text-align : center;
+    font-family: 'Permanent Marker', cursive;
+    color      : #2e2e2e;
+    font-size  : 46px;
+}
+
+.big-image {
+    display     : block;
+    margin-left : auto;
+    margin-right: auto;
+    width       : 40%;
+    height      : 40%;
+}
+
+.link {
+    color          : #3495eb;
+    text-decoration: none;
+}
+
+.container {
+    padding: 35px 50px 35px 50px;
+}
+
+.social-icon {
+    padding         : 10px;
+    background-color: #222222;
+    border-radius   : 100px;
+    width           : 32px;
+    height          : 32px;
+}
+
+.social-icon:hover {
+    transition      : 0.5s ease;
+    background-color: rgb(34, 34, 34, 0.4);
+}
+
+.social-icon:not(hover) {
+    transition      : 0.5s ease;
+    background-color: #222222;
+}
+
+footer {
+    display: table;
+    margin : auto;
+}
+
+/* Extra small devices (phones, 600px and down) */
+
+@media only screen and (max-width: 600px) {
+    .title {
+        font-size: 36px;
+    }
+
+    .subtitle {
+        font-size: 28px;
+    }
+
+    .signature {
+        font-size: 28px;
+    }
+
+    .big-image {
+        min-width: 100%;
+    }
+
+    .social-icon {
+        width : 32px;
+        height: 32px;
+    }
+}
